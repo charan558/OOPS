@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../python"
+		},
+		{
+			"path": "../../java"
+		},
+		{
+			"path": "../../oops"
+		},
+		{
+			"path": "../../../Videos/AbdulBari/10. Methods/method prac"
+		},
+		{
+			"path": "../Week3"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
